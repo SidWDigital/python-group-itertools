@@ -1,8 +1,6 @@
 # `itertools_presentation`
 
-I'm planning to go through the notebook as my presentation. At the beginning, I will cover the three key locations to find the resource documentation for itertools.
-
-I'm working on grouping the discussion based on _scenarios_, so this way, I can talk about itertools and more_itertools in the same section. 
+We aim to cover 10 different scenarios!.
 
 # `itertools_exercises`
 
